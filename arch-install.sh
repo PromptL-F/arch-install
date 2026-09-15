@@ -27,6 +27,10 @@ echo "=============================================="
 echo "   Arch Linux Installer - sasex"
 echo "   Disco: /dev/sda | UEFI + ext4 + Swap 4GB"
 echo "=============================================="
+echo -e "${NC}" "=============================================="
+echo "   Arch Linux Installer - sasex"
+echo "   Disco: /dev/sda | UEFI + ext4 + Swap 4GB"
+echo "=============================================="
 echo -e "${NC}"
 
 # --------------------------------------------------
